@@ -1,0 +1,3 @@
+set tempfile
+set backup
+set backupdir ~/.nano-backups
