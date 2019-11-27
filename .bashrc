@@ -21,6 +21,7 @@ shopt -s histappend
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
 HISTSIZE=1000000
 HISTFILESIZE=1000000
+export HISTFILE=~/.bash_history2
 
 #PROMPT_COMMAND='history -a; history -n'
 export PROMPT_COMMAND="history -a; history -n;${PROMPT_COMMAND}"
