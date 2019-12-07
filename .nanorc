@@ -1,5 +1,12 @@
+#include /usr/local/share/nano/c.nanorc
 set tempfile
 set backup
 set backupdir ~/.nano-backups
 set constantshow
-
+set smooth
+set morespace
+set mouse
+set nowrap
+set tabsize 4
+set autoindent
+set nohelp
