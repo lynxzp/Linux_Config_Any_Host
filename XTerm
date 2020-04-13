@@ -1,0 +1,14 @@
+XTerm.termName: xterm-256color
+XTerm.vt100.saveLines: 10240
+XTerm.vt100.scrollBar: true
+XTerm.vt100.scrollBar.width: 4
+XTerm.vt100.geometry: 194x46
+XTerm.vt100.foreground: green
+XTerm.vt100.background: black
+XTerm.vt100.bellIsUrgent: true
+XTerm*scrollBar: True
+XTerm*saveLines: 10000
+XTerm*utf8:1
+XTerm*locale: 1
+xterm*faceName: Monospace
+xterm*faceSize: 9
