@@ -3,8 +3,8 @@ set tempfile
 set backup
 set backupdir ~/.nano-backups
 set constantshow
-set smooth
-set morespace
+#set smooth
+#set morespace
 set mouse
 set nowrap
 set tabsize 4
