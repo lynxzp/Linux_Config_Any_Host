@@ -1,3 +1,8 @@
 "\e[A": history-search-backward            # arrow up
 "\e[B": history-search-forward             # arrow down
 
+set completion-ignore-case on
+set bell-style visible
+set expand-tilde off
+set show-all-if-ambiguous on
+set visible-stats on
