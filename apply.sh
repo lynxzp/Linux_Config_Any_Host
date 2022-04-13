@@ -1,2 +1,2 @@
 #!/bin/bash
-git config --glabal core.autocrlf input
+git config --global core.autocrlf input
